@@ -16,10 +16,10 @@ I am passionate about:<br>
 👯  I’m looking to collaborate on a project to increase transparency in campaign finance<br>
 
 🧘‍♂️  In my free time, I like to practice yoga, run, and read<br> 
-🏺  Ask me about cooking, and philosophy 
+🏺  Ask me about cooking and philosophy 
 
-📫 How to reach me: chanks@willamette.edu | 
- [![Linkedin Badge](https://img.shields.io/badge/-Charles Hanks-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-hanks-ds2223/)
+📫 How to reach me:<br> chanks@willamette.edu <br>       
+[![Linkedin Badge](https://img.shields.io/badge/-chanks-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-hanks-ds2223/)
 
 <!--
 **chanks06/chanks06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
