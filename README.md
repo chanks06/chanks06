@@ -19,7 +19,6 @@ I am passionate about:<br>
 🧘‍♂️  In my free time, I like to practice yoga, run, and read<br> 
 🏺  Ask me about cooking and philosophy 
 
-📫 How to reach me:
 
 <!--
 **chanks06/chanks06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
