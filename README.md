@@ -12,7 +12,7 @@ I am passionate about:<br>
 
 🏛 democracy    🌌 astronomy    🌍 earth
 
-🔭  I’m currently working a project visualizing food waste in the United States<br>
+🔭  I’m currently working a project analyzing security data of my local public transporation system<br>
 🌱  I'm currently learning R, Python, SQL<br>
 👯  I’m looking to collaborate on a project to increase transparency in campaign finance<br>
 
