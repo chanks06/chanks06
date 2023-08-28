@@ -4,10 +4,11 @@
 </div>
 
 
-### Hello, I'm Charles Hanks <br> chanks@willamette.edu <br>       
+### Hello, I'm Charles Hanks, MSDS <br> chanks@willamette.edu <br>       
 [![Linkedin Badge](https://img.shields.io/badge/-chanks-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-hanks-ds2223/)
 
-I am a Master's student in data science at Willamette University in Portland, OR<br> 
+After cooking for ten years, I am starting a career in data analytics. 
+
 I am passionate about:<br>
 
 🏛 democracy    🌌 astronomy    🌍 earth
