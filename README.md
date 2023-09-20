@@ -4,21 +4,19 @@
 </div>
 
 
-### Hello, I'm Charles Hanks, MSDS <br> chanks@willamette.edu <br>       
+### Hello, I'm Charles (he/him). Welcome!
+[Portfolio](https://chanks06.github.io/portfolio/about.html)
 [![Linkedin Badge](https://img.shields.io/badge/-chanks-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-hanks-ds2223/)
 
-After cooking for ten years, I am starting a career in data analytics. 
 
 I am passionate about:<br>
 
 🏛 democracy    🌌 astronomy    🌍 earth
 
-🔭  I’m currently working a project analyzing security data of my local public transporation system<br>
-🌱  I'm currently learning R, Python, SQL<br>
-👯  I’m looking to collaborate on a project to increase transparency in campaign finance<br>
-
-🧘‍♂️  In my free time, I like to practice yoga, run, and read<br> 
-🏺  Ask me about cooking and philosophy 
+🔭  I’m currently working a program in python to help me pack for backpacking trips, and a mySQL database of my grocery shopping trips. <br>
+📚  I'm reading *Fundamentals of Data Engineering* by Joe Reis & Matt Housley
+👯  I’m looking to collaborate on a project to increase transparency in campaign finance <br>
+🧘‍♂️  In my free time, I like to practice yoga, run, and cook <br> 
 
 
 <!--
