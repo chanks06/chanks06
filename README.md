@@ -7,6 +7,7 @@
 ### Hello, I'm Charles (he/him). Welcome!
 [Portfolio](https://chanks06.github.io/portfolio/about.html) <br>
 [![Linkedin Badge](https://img.shields.io/badge/-chanks-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-hanks-ds2223/)
+[LeetCode](https://leetcode.com/charleshanks/)
 
 
 I am passionate about:<br>
